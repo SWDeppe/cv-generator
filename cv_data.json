@@ -1,0 +1,185 @@
+{
+    "name": "Swann",
+    "picture": "cv_pic.jpg",
+    "fammily_name": "Deppe",
+    "title": "Junior software developer",
+    "birth_date": "09/08/2005",
+    "nationality": "Germany",
+    "summary": "Software developer student at 42 Heilbronn, focused on C/C++ programming, algorithms and full-stack web development. I have built an online multiplayer game, a website for a client and a web3 hackathon project. Looking for a junior software developer position.",
+    "contact": {
+        "email": { "text": "swanndeppe1@gmail.com", "url": "mailto:swanndeppe1@gmail.com", "description": "TODO" },
+        "phone": { "text": "+33 6 59 82 47 74", "url": "tel:+33659824774", "description": "TODO" },
+        "location": { "text": "Heilbronn, Germany", "url": "TODO", "description": "TODO" },
+        "github": { "text": "github.com/SWDeppe", "url": "https://github.com/SWDeppe", "description": "Personal and school projects" },
+        "linkedin": { "text": "TODO", "url": "TODO", "description": "TODO" },
+        "website": { "text": "TODO", "url": "TODO", "description": "TODO" }
+    },
+    "langs": {
+        "fr": "C2",
+        "de": "B2-C1",
+        "en": "C1"
+    },
+    "skill_groups": {
+        "Low-level": ["C", "C++"],
+        "Web": ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express"],
+        "Other": ["Python", "Solidity", "Arduino", "SFML"]
+    },
+    "IT_langs": {
+        "low_level": {
+            "C": 8,
+            "Cpp": 7,
+            "Rust": 3
+        },
+        "high_level": {
+            "Python": 8
+        },
+        "server": {
+            "TypeScript:Next.js": 7,
+            "Node.js:express": 7,
+            "Cpp:boost.asio": 8,
+            "Rust:tokio": 3
+        },
+        "DB": {
+            "PostgresSQL": 9,
+            "MongoDB": 7,
+            "mySQL": 5
+        }
+    },
+    "experience": [
+        {
+            "title": "TODO",
+            "company": "TODO",
+            "period": "TODO",
+            "location": "TODO",
+            "description": "TODO"
+        }
+    ],
+    "studys": [
+        {
+            "name": "42 Heilbronn",
+            "entry": "October 2025",
+            "finished": "TODO",
+            "location": "Weipertstraße 8-10 74076 Heilbronn Germany",
+            "link": "https://www.42heilbronn.de/",
+            "diplomat": "TODO",
+            "description": "Project-based software engineering curriculum"
+        },
+        {
+            "name": "Les Catalins",
+            "entry": "December 2021",
+            "finished": "October 2024",
+            "location": "Lycée polyvalent les Catalins 24 avenue des Catalins 26200 Montélimar France",
+            "link": "https://www.catalins.fr/",
+            "diplomat": "BAC - STI2D",
+            "description": "Electronics and Arduino programming"
+        }
+    ],
+    "interests": ["Sports", "Game programming", "Website development"],
+    "projects": {
+        "personal": [
+            {
+                "name": "Online Pong game",
+                "featured": true,
+                "lang": ["Cpp:SFML"],
+                "description": "Cross-platform graphical pong game, playable online against other players (server currently offline).",
+                "year": "2024-2025",
+                "role": "Developer",
+                "link": "https://swdeppe.github.io/pongWebInstaller/"
+            }
+        ],
+        "school": [
+            {
+                "name": "libft",
+                "lang": ["C"],
+                "description": "Own implementation of standard C library functions.",
+                "school": "42",
+                "year": "2025",
+                "link": "TODO"
+            },
+            {
+                "name": "ft_printf",
+                "lang": ["C"],
+                "description": "Re-implementation of the C printf function.",
+                "school": "42",
+                "year": "2025",
+                "link": "TODO"
+            },
+            {
+                "name": "get_next_line",
+                "lang": ["C"],
+                "description": "Line-by-line file reader in C.",
+                "school": "42",
+                "year": "2025",
+                "link": "TODO"
+            },
+            {
+                "name": "Born2beroot",
+                "lang": [],
+                "description": "Set up a virtual machine to host a server.",
+                "school": "42",
+                "year": "2026",
+                "link": "TODO"
+            },
+            {
+                "name": "push_swap",
+                "featured": true,
+                "lang": ["C"],
+                "description": "Stack-based sorting program under strict operation constraints. I designed my own algorithm, which performs well above the 42 grading thresholds.",
+                "school": "42",
+                "year": "2026",
+                "link": "TODO"
+            },
+            {
+                "name": "A-maze-ing",
+                "lang": ["Python"],
+                "authors": ["m-prunty", "SWDeppe"],
+                "description": "Team project: maze generation and solving with a graphical interface.",
+                "school": "42",
+                "year": "2026",
+                "link": "https://github.com/m-prunty/a_maze_ing"
+            },
+            {
+                "name": "Fly-in",
+                "featured": true,
+                "lang": ["Python"],
+                "description": "Pathfinding for multiple concurrent agents, with an integrated graphical interface.",
+                "school": "42",
+                "year": "2026",
+                "link": "https://github.com/SWDeppe/fly-in"
+            },
+            {
+                "name": "Drying container",
+                "lang": ["Cpp:arduino"],
+                "description": "Arduino system that measures humidity and temperature to regulate a moving drying room.",
+                "link": "https://www.tinkercad.com/things/78UvvguVpA2-stunning-kup/editel?sharecode=z_VdEOXOZwdB_ISdIjteR9YN5NxEQVWba82btN-b46k",
+                "school": "Les Catalins",
+                "year": "2023"
+            }
+        ],
+        "business": [
+            {
+                "name": "Brunlees website",
+                "client": "Washing Fernandes - Photographer",
+                "lang": ["Node.js:express", "HTML", "CSS", "JavaScript"],
+                "description": "Frontend to showcase a photographer's pictures.",
+                "link": "https://brunlees.org/",
+                "company": "brunlees",
+                "year": "2024",
+                "role": "Developer"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "ETHGlobal - Humangate",
+                "featured": true,
+                "authors": ["lakdogan", "naakugod11", "SWDeppe"],
+                "lang": ["TypeScript:Next.js", "TypeScript:React", "Solidity"],
+                "description": "Hackathon project: API backed by on-chain Ethereum contracts that verifies a real human signed in to an event.",
+                "type": "hackathon",
+                "hoster": "ETHGlobal",
+                "year": "2026",
+                "link": "https://ethglobal.com/"
+            }
+        ]
+    }
+}

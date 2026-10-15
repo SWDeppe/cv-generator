@@ -1,0 +1,15 @@
+{
+  "name": "cv_gen",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.1"
+  }
+}
